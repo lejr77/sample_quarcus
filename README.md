@@ -1,4 +1,4 @@
-# token_issuer_services_configuration-core-server project
+# quarkus_sample project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
